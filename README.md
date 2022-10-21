@@ -19,3 +19,5 @@
 
 ## Autor
 Hernández Salazar Diego Joan
+Número de control: 1219100490
+Grupo: GDGS2101
