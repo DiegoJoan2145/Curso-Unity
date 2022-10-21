@@ -8,7 +8,7 @@
   * > [Unit 3 - Sound and Efffects ](https://github.com/DiegoJoan2145/Curso-Unity/tree/main/Leccion%203/Unit%203%20-%20Sound%20and%20Effects)
   * > [Desafío 3 - Balloons, Bombs, & Booleans](https://github.com/DiegoJoan2145/Curso-Unity/tree/main/Leccion%203/Unit%203%20-%20Challenge)
   * > [Video 3 - Balloons, Bombs, & Booleans](https://drive.google.com/file/d/1bhGzxDb_axJuCxzOpWJ0DVhg5uq_mozr/view?usp=sharing)
-  * > [Laboratorio 3 - Player Control]()
+  * > [Laboratorio 3 - Player Control](https://github.com/DiegoJoan2145/Curso-Unity/tree/main/Leccion%203/Laboratorio%20-%203)
   * > [Quiz - 5](https://github.com/DiegoJoan2145/Curso-Unity/tree/main/Leccion%203/Quiz%20-%203)
 
 * Lección 5 - User Interface
