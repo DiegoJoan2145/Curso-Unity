@@ -18,6 +18,6 @@
   * > [Quiz - 5](https://github.com/DiegoJoan2145/Curso-Unity/tree/main/Leccion%205/Quiz%20-%205)
 
 ## Autor
-Hernández Salazar Diego Joan
-Número de control: 1219100490
-Grupo: GDGS2101
+*Hernández Salazar Diego Joan
+*Número de control: 1219100490
+*Grupo: GDGS2101
