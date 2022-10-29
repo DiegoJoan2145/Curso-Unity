@@ -12,7 +12,7 @@
   * > [Quiz - 5](https://github.com/DiegoJoan2145/Curso-Unity/tree/main/Leccion%203/Quiz%20-%203)
  
 * Lección 4 - Game play mechanics
-  * > [Unit 4 - Game play mechanics ](https://github.com/DiegoJoan2145/Curso-Unity/tree/main/Leccion%204/Lab%204%20-%20Basic%20Gameplay)
+  * > [Laboratorio 4 - Basic GamePlay](https://github.com/DiegoJoan2145/Curso-Unity/tree/main/Leccion%204/Lab%204%20-%20Basic%20Gameplay)
 
 * Lección 5 - User Interface
   * > [Unit 5 - User Interface](https://github.com/DiegoJoan2145/Curso-Unity/tree/main/Leccion%205/Unit%205%20-%20User%20Interface)
