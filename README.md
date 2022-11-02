@@ -1,3 +1,46 @@
+ ## Contenido
+- [Introducción](#introducción)
+- [Código Fuente](#código-fuente)
+- [Autores](#autor)
+
+## Introducción
+
+- Nombre del proyecto
+  - Space Shooter
+
+- Objetivo
+  - Derribar asteroides sin dejar que estos nos golpean, y evitar destruir naves amigas
+
+- Plataforma ,Género, Clasificación, Personajes, Escenario.
+  - Plataforma: 
+    - Desktop
+  - Género:
+    - Aventura
+    - Disparos
+  - Clasificación:
+    - Everyone E, contenido apto para todas las edades  
+  - Personajes:
+    - Nave Discovery One
+  - Escenario:
+    - Espacio exterior 
+
+- Historia
+  - Es el año 3050, la humanidad tuvo que escapar del planeta tierra y en busca de un nuevo hogar, la nave Discovery One tiene la misión de encontrar un lugar seguro para los habitantes del planeta tierra, aventurándose dentro del espacio y esquivando todo tipo adversidades que se encuentre en su camino. 
+
+- Reglas de Juego.
+  - El propósito del player (Nave) es destruir los objetos (Meteoritos) que van hacia la posición Z de la escena, evitando que ambos choquen, en caso de suceder una collision entre el meteorito y la nave espacial se terminará el juego. Habrá dos tipos de objetos Meteoritos y Naves amigas,  el primero (Meteorito) será de tipo acumulador, el cuál aumentará los puntos de 5 en 5. El segundo (Nave conocido) será de tipo desacumulativo, el cuál disminuirá los puntos de 2 en 2. En caso de llegar a los 100 puntos se ganará la partida.
+
+- Pantallas de Juego
+  - Escena del juego
+    - ![scene-game](img/scene-game.png)
+
+- Plan de creación de VideoJuego
+  - [Tablero en Trello](https://trello.com/b/YE2REfxC/space-shooter)
+
+- Autores
+  - Ramírez Balderas Florentino - 1219100383
+  - Hernández Salazar Diego Joan - 1219100490
+
 # Creación de Video Juegos
 ## Contenido
 - [Código Fuente](#código-fuente)
