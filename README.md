@@ -47,6 +47,20 @@
   * > [Documentación del juego a realizar](https://docs.google.com/document/d/1WzagRw2U7oY4eAUA6eFMaBPmHoLrkz6q/edit?usp=sharing&ouid=104069290293159397537&rtpof=true&sd=true)
 
 ## Código Fuente
+* Lección 1 - Payer Control
+  * > [Unit 1 - Player Control ](https://github.com/DiegoJoan2145/Curso-Unity/tree/main/Leccion%201/Unit%201%20-%20Player%20Control)
+  * > [Desafío 1 - Plane Programming ](https://github.com/DiegoJoan2145/Curso-Unity/tree/main/Leccion%201/Challenge%201%20-%20Plane%20Programming)
+  * > [Video 1 - Plane Programming](https://drive.google.com/file/d/1l2nb43hen2pZP2RzAebepxHwWcXBPlXe/view?usp=sharing)
+  * > [Laboratorio - 1](https://github.com/DiegoJoan2145/Curso-Unity/tree/main/Leccion%201/Laboratorio%20-%201)
+  * > [Quiz - 1](https://github.com/DiegoJoan2145/Curso-Unity/tree/main/Leccion%201/Quiz%20-%201)
+  
+* Lección 2 - Basic GamePlay 
+  * > [Unit 2 - Basic Gamplay ]()
+  * > [Desafío 2 - Play Fetch ](https://github.com/DiegoJoan2145/Curso-Unity/tree/main/Leccion%202/Challenge%202%20-%20Play%20Fetch)
+  * > [Video 2 - Play Fetch](https://drive.google.com/file/d/1OjIuS5L2ZLEBPcpD_CGUD39cnimJNFo0/view?usp=sharing)
+  * > [Laboratorio - 2](https://github.com/DiegoJoan2145/Curso-Unity/tree/main/Leccion%202/Lab%20-%20New%20Project%20with%20primitives)
+  * > [Quiz - 2](https://github.com/DiegoJoan2145/Curso-Unity/tree/main/Leccion%202/Quiz%20-%202)
+
 * Lección 3 - Sound and Efffects
   * > [Unit 3 - Sound and Efffects ](https://github.com/DiegoJoan2145/Curso-Unity/tree/main/Leccion%203/Unit%203%20-%20Sound%20and%20Effects)
   * > [Desafío 3 - Balloons, Bombs, & Booleans](https://github.com/DiegoJoan2145/Curso-Unity/tree/main/Leccion%203/Unit%203%20-%20Challenge)
