@@ -39,7 +39,7 @@
 - Plan de creación de VideoJuego
   - [Tablero en Trello](https://trello.com/b/YE2REfxC/space-shooter)
 
-- Autores
+- Autores del projecto Space Shooter
   - Ramírez Balderas Florentino - 1219100383
   - Hernández Salazar Diego Joan - 1219100490
   
@@ -55,7 +55,7 @@
   * > [Quiz - 1](https://github.com/DiegoJoan2145/Curso-Unity/tree/main/Leccion%201/Quiz%20-%201)
   
 * Lección 2 - Basic GamePlay 
-  * > [Unit 2 - Basic Gamplay ]()
+  * > [Unit 2 - Basic Gamplay ](https://github.com/DiegoJoan2145/Curso-Unity/tree/main/Leccion%202/Unit%202%20-Basic%20Gameplay)
   * > [Desafío 2 - Play Fetch ](https://github.com/DiegoJoan2145/Curso-Unity/tree/main/Leccion%202/Challenge%202%20-%20Play%20Fetch)
   * > [Video 2 - Play Fetch](https://drive.google.com/file/d/1OjIuS5L2ZLEBPcpD_CGUD39cnimJNFo0/view?usp=sharing)
   * > [Laboratorio - 2](https://github.com/DiegoJoan2145/Curso-Unity/tree/main/Leccion%202/Lab%20-%20New%20Project%20with%20primitives)
