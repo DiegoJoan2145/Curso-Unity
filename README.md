@@ -38,6 +38,7 @@
 
 - Plan de creación de VideoJuego
   - [Tablero en ClickUp](https://sharing.clickup.com/24530945/g/h/qcm01-85/b473a7031a11b6d)
+  - ![gant](img/gant.png)
 
 - Autores del projecto Space Shooter
   - Ramírez Balderas Florentino - 1219100383
