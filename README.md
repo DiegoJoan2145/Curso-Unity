@@ -24,7 +24,8 @@
   - Personajes:
     - Nave Discovery One
   - Escenario:
-    - Espacio exterior 
+    - Espacio exterior
+  - Juego desarrollado en 3D
 
 - Historia
   - Es el año 3050, la humanidad tuvo que escapar del planeta tierra y en busca de un nuevo hogar, la nave Discovery One tiene la misión de encontrar un lugar seguro para los habitantes del planeta tierra, aventurándose dentro del espacio y esquivando todo tipo adversidades que se encuentre en su camino. 
