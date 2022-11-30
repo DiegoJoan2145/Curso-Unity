@@ -90,14 +90,14 @@
     - Se implemento la funcionalidad que con cada ronda aumenten (+5) los asteroides
     - A cada tipo de asteroide se le asignó un valor
     - Se implemento la velocidad de los asteroides (+5) conforme cada ronda pase
-    - [Space Escape V2](https://github.com/Florentinorm/Curso_Unity/blob/main/Space%20Escape/Space%20Escape%20V2.unitypackage)
+    - [Space Escape V2]()
 
   - Versión 3:
     - Se crea el scroll parallax, que hace que el fondo tenga movimiento
     - Se agregaron estrellas al escenario
     - Se creo la nave enemiga
     - Se creo la manera en que pueda disparar
-    - [Space Escape V3](https://github.com/Florentinorm/Curso_Unity/blob/main/Space%20Escape/Space%20Escape%20V3.unitypackage)
+    - [Space Escape V3]()
 
   - Versión 4:
     - Se cambio el diseño de las naves
