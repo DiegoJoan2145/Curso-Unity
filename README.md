@@ -8,7 +8,7 @@
 ## Introducción
 
 - Nombre del proyecto
-  - Space Shooter
+  - Space Escape
 
 - Objetivo
   - Derribar asteroides sin dejar que estos nos golpean, y evitar destruir naves amigas
@@ -17,36 +17,107 @@
   - Plataforma: 
     - Desktop
   - Género:
-    - Aventura
-    - Disparos
+    - Aventura y Disparos
   - Clasificación:
     - Everyone E, contenido apto para todas las edades  
   - Personajes:
-    - Nave Discovery One
+    - Nave Destructor Estelar, Nave de Control de Droides clase Lucrehulk
   - Escenario:
-    - Espacio exterior
-  - Juego desarrollado en 3D
+    - Espacio exterior, dentro de la nébula darkgreen
+  - Tipo de Juego
+    - 3D
 
 - Historia
-  - Es el año 3050, la humanidad tuvo que escapar del planeta tierra y en busca de un nuevo hogar, la nave Discovery One tiene la misión de encontrar un lugar seguro para los habitantes del planeta tierra, aventurándose dentro del espacio y esquivando todo tipo adversidades que se encuentre en su camino. 
+  - Es el año 3074, en el planeta Xandar dentro de la nébula darkgreen ahí se encuentra lo más preciado del universo la estrella del alma, el cual es de altamente valor, donde los Chandilar logran robar esta preciada reliquia, huyen dentro de la nave llamada Destructor Estelar llamada así por sus gran tamaño, y su poder de destrucción que tan solo viéndola es de imponer respeto, los Chandilar se tienen que enfrentar a muchas adversidades como la lluvia de meteoritos que es una característica de la nébula darkgreen, pero no solo de eso se deben de preocupar si no también deben escapar de la guardia galáctica donde tienen naves es la de Control de Droides clase Lucrehulk, caracterizada por su forma en punto y sus destructores rayos lazer los cuales deben de evitar a toda costa. 
 
 - Reglas de Juego.
-  - El propósito del player (Nave) es destruir los objetos (Meteoritos) que van hacia la posición Z de la escena, evitando que ambos choquen, en caso de suceder una collision entre el meteorito y la nave espacial se terminará el juego. Habrá dos tipos de objetos Meteoritos y Naves amigas,  el primero (Meteorito) será de tipo acumulador, el cuál aumentará los puntos de 5 en 5. El segundo (Nave conocido) será de tipo desacumulativo, el cuál disminuirá los puntos de 2 en 2. En caso de llegar a los 100 puntos se ganará la partida.
+  - El jugador debe de destruir o esquivar los asteroides, así como las naves
+  - El juego termina si:
+    - Si el jugador chocado por un asteroide
+    - Si es impactado por un rayo láser de las naves
+    - Si el jugador tiene una colisión con una nave el juego se termina
+  - Puntuación:
+    - Destrucción de:
+      - Ateroide de hielo   = +1  puntos
+      - Asteroide de lava  = +3  puntos
+      - Mina   = +5 puntos
+      - Nave enemiga       = +10 puntos
+  - Disparos:
+	  - Solo tendrá 4 disparos por segundo
+  - Control del juego
+    - [Ver controles del juego](img/control-del-juego.png)
+  - Vidas:
+	  - 1 vida
+  - Dificultad 
+	  - Acumulativa (+5 asteroides cada ronda)
+    - Velocidad acumulativa (+5 en cada ronda)
+	  - Tiempo de espera de 5 segundos entre ronda
+	  - Probabilidad de 14% que aparezca alguna nave enemiga
+
 
 - Pantallas de Juego
   - Escena del juego
     - ![scene-game](img/scene-game.png)
 
 - Plan de creación de VideoJuego
-  - [Tablero en ClickUp](https://sharing.clickup.com/24530945/g/h/qcm01-85/b473a7031a11b6d)
+  - [Tablero Space Escape](https://sharing.clickup.com/24530945/g/h/qcm01-85/b473a7031a11b6d)
   - ![gant](img/gant.png)
 
-- Autores del projecto Space Shooter
+- Presentación 
+  - [Diapositiva del juego](https://docs.google.com/presentation/d/1ocMP9lEPDD4IMZThTxKA5phMRXpEa3Rm/edit?usp=sharing&ouid=104069290293159397537&rtpof=true&sd=true)
+
+- Configuración del entorno para el juego 
+  - **IMPORTANTE:** Para tener una mejor experiencia es necesario agregar un nuevo aspecto, por lo que se recomienda ir al apartado de **Game** después dirigirse a **Free Aspect** y oprimir el símbolo de **+**, posteriormente agregaremos uno nuevo **Label** con el nombre que sea recomendamos **Space Shooter** después el **Width & Height** pondremos **600 x 900**
+  - [Manual](img/Manual.png)
+
+- Versiones 
+  - Versión 1: 
+    - Se agrego el plano con una textura de nébula 
+    - Se agrego la nave igual que se hace que pueda moverse sin salirse del plano además de disparar
+    - Se agregaron los meteoritos y cada uno tiene un movimiento diferente
+    - Espaunean los meteoritos 
+    - Se destruyen todos los objetos que salen del cuadro 
+    - Se agregaron las animaciones de explosiones 
+    - Se agrego el sonido 
+    - Se agregaron los scripts que destruyen a los asteroides y a la nave 
+    - [Space Escape V1](https://github.com/Florentinorm/Curso_Unity/blob/main/Space%20Shooter/Space%20Shooter%20V1.unitypackage)
+
+  - Versión 2:
+    - Se agrego la puntuación (Score)
+    - Se agrego el Juego terminado (Game Over)
+    - Se agrego una manera de reiniciar el juego
+    - Se agregaron nuevos asteroides con puntuación y velocidades distintas
+    - Se implemento la funcionalidad que con cada ronda aumenten (+5) los asteroides
+    - A cada tipo de asteroide se le asignó un valor
+    - Se implemento la velocidad de los asteroides (+5) conforme cada ronda pase
+    - [Space Escape V2](https://github.com/Florentinorm/Curso_Unity/blob/main/Space%20Escape/Space%20Escape%20V2.unitypackage)
+
+  - Versión 3:
+    - Se crea el scroll parallax, que hace que el fondo tenga movimiento
+    - Se agregaron estrellas al escenario
+    - Se creo la nave enemiga
+    - Se creo la manera en que pueda disparar
+    - [Space Escape V3](https://github.com/Florentinorm/Curso_Unity/blob/main/Space%20Escape/Space%20Escape%20V3.unitypackage)
+
+  - Versión 4:
+    - Se cambio el diseño de las naves
+    - Se agregaron minas, asteroides de lava y hielo 
+    - Se cambio el fonde de la nébula por uno de mas colores
+    - Se agrego la manera en que las naves enemigas puedan moverse dentro del plano
+    - [Space Escape V4](https://mega.nz/file/uj4GFR6K#S1npGcycgjfnHDc5N_l1IfArCyzKDpVbklS-29O25JE) *(Importación desde MEGA, peso estimado 157 MB)*
+
+  - Versión 5:
+    - Se agrego la conexión a la Base de Datos
+    - Se registra el usuario
+    - Se registra su puntuación 
+    - Se muestra la tabla con las mejores puntuaciones 
+    - Se agrego la UI de inicio
+    - [Space Escape V5](https://mega.nz/file/XzhmmYrT#1SrQIQPiL7AxR6hppJOGqehFJKNVYGMo2x5O6WFOiU4) *(Importación desde MEGA, peso estimado 160 MB)*
+
+- Autores del juego "Space Escape"
   - Ramírez Balderas Florentino - 1219100383
   - Hernández Salazar Diego Joan - 1219100490
-  
-* Documentación detallada Space Shooter
-  * > [Documentación del juego a realizar](https://docs.google.com/document/d/1WzagRw2U7oY4eAUA6eFMaBPmHoLrkz6q/edit?usp=sharing&ouid=104069290293159397537&rtpof=true&sd=true)
+
 
 ## Código Fuente
 * Lección 1 - Payer Control
