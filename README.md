@@ -90,14 +90,14 @@
     - Se implemento la funcionalidad que con cada ronda aumenten (+5) los asteroides
     - A cada tipo de asteroide se le asignó un valor
     - Se implemento la velocidad de los asteroides (+5) conforme cada ronda pase
-    - [Space Escape V2]()
+    - [Space Escape V2](https://github.com/Florentinorm/Curso_Unity/blob/main/Space%20Escape/Space%20Escape%20V2.unitypackage)
 
   - Versión 3:
     - Se crea el scroll parallax, que hace que el fondo tenga movimiento
     - Se agregaron estrellas al escenario
     - Se creo la nave enemiga
     - Se creo la manera en que pueda disparar
-    - [Space Escape V3]()
+    - [Space Escape V3](https://github.com/Florentinorm/Curso_Unity/blob/main/Space%20Escape/Space%20Escape%20V3.unitypackage)
 
   - Versión 4:
     - Se cambio el diseño de las naves
@@ -112,12 +112,14 @@
     - Se registra su puntuación 
     - Se muestra la tabla con las mejores puntuaciones 
     - Se agrego la UI de inicio
-    - [Space Escape V5](https://mega.nz/file/XzhmmYrT#1SrQIQPiL7AxR6hppJOGqehFJKNVYGMo2x5O6WFOiU4) *(Importación desde MEGA, peso estimado 160 MB)*
+    - [Space Escape V5](https://mega.nz/file/mzIHDAID#HI96k-HZPMdQuOpC3YOx-gyFFDh4ZMkJ3Sg8L5DSLhk) *(Importación desde MEGA, peso estimado 160 MB)*
+
+  - Deploy del juego
+    - [Space Escape - Juego final](https://github.com/Florentinorm/Curso_Unity/blob/main/Space%20Escape/Space%20Escape%20BD.exe)
 
 - Autores del juego "Space Escape"
   - Ramírez Balderas Florentino - 1219100383
   - Hernández Salazar Diego Joan - 1219100490
-
 
 ## Código Fuente
 * Lección 1 - Payer Control
